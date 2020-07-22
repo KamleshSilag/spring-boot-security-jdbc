@@ -1,2 +1,2 @@
-# spring-boot-security-jdbc
+# spring-security-jdbc
 Basics of Spring Boot Security JDBC configuration
